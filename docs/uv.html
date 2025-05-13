@@ -1,25 +1,39 @@
 <!doctype html><html lang="ja">
 <head>
   <meta charset="utf-8">
-  <title>UV embed</title>
+  <title>IIIF Universal Viewer</title>
+
+  <!-- 1) CSS は CDN から取得するとパス問題が起きない -->
   <link rel="stylesheet"
         href="https://cdn.jsdelivr.net/npm/universalviewer@4.0.0/dist/uv.css">
-  <style>html,body,#uv{height:100%;margin:0}</style>
+
+  <!-- 2) 全画面レイアウト用の最小スタイル -->
+  <style>
+    html, body, #uv { height: 100%; margin: 0; }
+  </style>
 </head>
 <body>
+  <!-- 3) Viewer を描画するコンテナ -->
   <div id="uv"></div>
 
+  <!-- 4) JS も CDN から -->
   <script src="https://cdn.jsdelivr.net/npm/universalviewer@4.0.0/dist/umd/UV.js"></script>
-  <script>
-    const url   = new URL(location.href);
-    const mani  = url.searchParams.get('manifest');
-    const idx   = +(url.searchParams.get('canvas') || 0);
 
-    UV.init('uv',{
-      manifest: mani,
-      canvasIndex: idx,
-      locale:'ja',
-      embedded:true
+  <!-- 5) 初期化スクリプト -->
+  <script>
+    /*  URL パラメータで manifest / canvas を受け取れるようにする例  */
+    const q     = new URLSearchParams(location.search);
+    const mani  = q.get('manifest') ?? 'https://iiif.io/api/presentation/2.1/example/fixtures/1/manifest';
+    const index = +(q.get('canvas') ?? 0);
+
+    UV.init('uv', {
+      manifest        : mani,
+      canvasIndex     : index,
+      locale          : 'ja',
+      embedded        : true,
+      storageAdapter  : 'memory',  // ← sessionStorage を使わない
+      autoSaveState   : false
     });
   </script>
-</body></html>
+</body>
+</html>
