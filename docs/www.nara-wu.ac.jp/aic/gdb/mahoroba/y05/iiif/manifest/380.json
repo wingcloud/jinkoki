@@ -1,0 +1,5071 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://wingcloud.github.io/jinkoki/www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/iiif/manifest/380.json",
+  "type": "Manifest",
+  "label": {
+    "ja": [
+      "塵劫記"
+    ]
+  },
+  "summary": {
+    "ja": [
+      "寛永11年刊, 1冊, 資料サイズ：縦20.5cm×横14.5cm"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "ja": [
+          "目録番号"
+        ]
+      },
+      "value": {
+        "ja": [
+          "380"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "写刊別"
+        ]
+      },
+      "value": {
+        "ja": [
+          "刊"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "冊数"
+        ]
+      },
+      "value": {
+        "ja": [
+          "1冊"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "書写(刊行)年代"
+        ]
+      },
+      "value": {
+        "ja": [
+          "寛永11年刊"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "資料サイズ"
+        ]
+      },
+      "value": {
+        "ja": [
+          "縦20.5cm×横14.5cm"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://example.com/iiif/canvas/0001",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第1画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0001/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0001/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0001.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0002",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第2画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0002/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0002/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0002.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0002"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0003",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第3画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0003/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0003/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0003.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0003"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0004",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第4画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0004/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0004/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0004.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0004"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0005",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第5画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0005/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0005/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0005.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0006",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第6画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0006/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0006/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0006.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0006"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0007",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第7画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0007/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0007/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0007.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0008",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第8画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0008/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0008/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0008.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0008"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0009",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第9画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0009/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0009/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0009.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0009"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0010",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第10画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0010/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0010/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0010.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0010"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0011",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第11画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0011/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0011/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0011.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0011"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0012",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第12画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0012/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0012/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0012.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0012"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0013",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第13画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0013/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0013/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0013.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0013"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0014",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第14画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0014/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0014/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0014.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0014"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0015",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第15画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0015/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0015/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0015.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0015"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0016",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第16画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0016/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0016/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0016.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0016"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0017",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第17画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0017/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0017/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0017.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0018",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第18画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0018/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0018/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0018.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0018"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0019",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第19画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0019/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0019/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0019.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0019"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0020",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第20画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0020/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0020/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0020.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0021",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第21画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0021/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0021/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0021.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0022",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第22画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0022/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0022/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0022.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0023",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第23画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0023/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0023/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0023.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0024",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第24画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0024/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0024/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0024.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0025",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第25画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0025/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0025/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0025.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0025"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0026",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第26画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0026/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0026/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0026.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0027",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第27画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0027/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0027/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0027.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0027"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0028",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第28画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0028/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0028/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0028.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0028"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0029",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第29画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0029/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0029/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0029.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0029"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0030",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第30画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0030/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0030/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0030.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0030"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0031",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第31画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0031/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0031/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0031.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0031"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0032",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第32画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0032/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0032/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0032.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0032"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0033",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第33画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0033/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0033/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0033.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0033"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0034",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第34画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0034/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0034/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0034.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0034"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0035",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第35画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0035/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0035/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0035.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0035"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0036",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第36画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0036/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0036/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0036.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0036"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0037",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第37画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0037/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0037/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0037.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0037"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0038",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第38画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0038/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0038/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0038.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0038"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0039",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第39画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0039/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0039/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0039.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0039"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0040",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第40画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0040/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0040/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0040.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0040"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0041",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第41画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0041/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0041/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0041.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0041"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0042",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第42画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0042/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0042/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0042.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0042"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0043",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第43画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0043/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0043/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0043.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0043"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0044",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第44画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0044/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0044/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0044.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0044"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0045",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第45画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0045/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0045/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0045.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0045"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0046",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第46画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0046/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0046/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0046.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0046"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0047",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第47画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0047/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0047/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0047.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0047"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0048",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第48画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0048/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0048/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0048.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0048"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0049",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第49画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0049/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0049/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0049.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0049"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0050",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第50画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0050/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0050/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0050.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0050"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0051",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第51画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0051/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0051/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0051.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0051"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0052",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第52画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0052/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0052/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0052.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0052"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0053",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第53画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0053/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0053/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0053.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0053"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0054",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第54画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0054/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0054/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0054.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0054"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0055",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第55画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0055/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0055/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0055.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0055"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0056",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第56画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0056/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0056/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0056.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0056"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0057",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第57画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0057/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0057/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0057.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0057"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0058",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第58画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0058/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0058/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0058.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0058"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0059",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第59画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0059/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0059/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0059.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0059"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0060",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第60画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0060/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0060/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0060.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0060"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0061",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第61画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0061/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0061/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0061.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0061"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0062",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第62画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0062/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0062/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0062.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0062"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0063",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第63画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0063/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0063/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0063.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0063"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0064",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第64画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0064/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0064/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0064.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0064"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0065",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第65画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0065/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0065/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0065.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0065"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0066",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第66画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0066/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0066/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0066.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0066"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0067",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第67画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0067/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0067/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0067.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0067"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0068",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第68画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0068/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0068/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0068.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0068"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0069",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第69画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0069/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0069/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0069.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0069"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0070",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第70画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0070/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0070/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0070.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0070"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0071",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第71画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0071/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0071/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0071.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0071"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0072",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第72画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0072/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0072/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0072.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0072"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0073",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第73画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0073/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0073/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0073.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0073"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0074",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第74画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0074/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0074/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0074.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0074"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0075",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第75画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0075/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0075/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0075.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0075"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0076",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第76画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0076/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0076/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0076.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0076"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0077",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第77画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0077/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0077/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0077.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0077"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0078",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第78画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0078/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0078/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0078.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0078"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0079",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第79画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0079/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0079/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0079.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0079"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0080",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第80画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0080/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0080/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0080.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0080"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0081",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第81画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0081/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0081/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0081.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0081"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0082",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第82画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0082/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0082/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0082.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0082"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0083",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第83画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0083/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0083/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0083.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0083"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0084",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第84画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0084/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0084/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0084.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0084"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0085",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第85画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0085/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0085/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0085.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0085"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0086",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第86画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0086/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0086/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0086.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0086"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0087",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第87画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0087/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0087/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0087.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0087"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0088",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第88画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0088/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0088/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0088.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0088"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0089",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第89画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0089/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0089/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0089.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0089"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0090",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第90画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0090/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0090/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0090.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0090"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0091",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第91画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0091/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0091/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0091.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0091"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0092",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第92画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0092/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0092/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0092.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0092"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0093",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第93画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0093/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0093/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0093.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0093"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0094",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第94画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0094/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0094/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0094.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0094"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0095",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第95画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0095/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0095/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0095.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0095"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0096",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第96画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0096/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0096/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0096.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0096"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0097",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第97画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0097/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0097/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0097.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0097"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0098",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第98画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0098/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0098/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0098.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0098"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0099",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第99画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0099/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0099/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0099.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0099"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0100",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第100画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0100/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0100/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0100.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0100"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0101",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第101画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0101/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0101/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0101.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0101"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0102",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第102画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0102/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0102/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0102.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0102"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0103",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第103画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0103/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0103/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0103.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0103"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0104",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第104画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0104/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0104/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0104.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0104"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0105",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第105画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0105/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0105/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0105.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0105"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0106",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第106画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0106/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0106/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0106.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0106"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0107",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第107画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0107/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0107/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0107.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0107"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0108",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第108画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0108/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0108/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0108.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0108"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0109",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第109画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0109/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0109/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0109.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0109"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0110",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第110画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0110/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0110/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0110.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0110"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0111",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第111画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0111/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0111/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0111.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0111"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0112",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第112画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0112/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0112/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0112.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0112"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0113",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第113画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0113/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0113/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0113.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0113"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0114",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第114画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0114/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0114/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0114.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0114"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0115",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第115画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0115/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0115/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0115.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0115"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0116",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第116画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0116/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0116/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0116.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0116"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0117",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第117画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0117/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0117/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0117.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0117"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0118",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第118画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0118/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0118/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0118.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0118"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0119",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第119画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0119/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0119/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0119.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0119"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0120",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第120画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0120/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0120/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0120.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0120"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0121",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第121画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0121/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0121/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0121.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0121"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0122",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第122画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0122/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0122/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0122.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0122"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0123",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第123画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0123/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0123/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0123.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0123"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0124",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第124画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0124/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0124/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0124.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0124"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0125",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第125画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0125/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0125/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0125.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0125"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0126",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第126画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0126/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0126/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0126.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0126"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0127",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第127画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0127/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0127/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0127.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0127"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0128",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第128画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0128/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0128/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0128.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0128"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0129",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第129画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0129/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0129/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0129.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0129"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0130",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第130画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0130/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0130/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0130.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0130"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0131",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第131画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0131/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0131/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0131.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0131"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0132",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第132画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0132/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0132/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0132.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0132"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0133",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第133画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0133/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0133/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0133.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0133"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0134",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第134画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0134/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0134/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0134.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0134"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0135",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第135画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0135/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0135/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0135.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0135"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0136",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第136画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0136/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0136/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0136.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0136"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0137",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第137画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0137/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0137/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0137.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0137"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0138",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第138画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0138/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0138/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0138.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0138"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0139",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第139画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0139/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0139/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0139.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0139"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0140",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第140画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0140/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0140/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0140.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0140"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0141",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第141画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0141/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0141/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0141.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0141"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0142",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第142画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0142/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0142/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0142.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0142"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0143",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第143画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0143/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0143/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0143.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0143"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0144",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第144画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0144/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0144/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0144.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0144"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0145",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第145画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0145/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0145/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0145.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0145"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0146",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第146画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0146/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0146/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0146.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0146"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0147",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第147画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0147/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0147/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0147.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0147"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0148",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第148画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0148/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0148/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0148.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0148"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0149",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第149画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0149/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0149/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0149.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0149"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0150",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第150画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0150/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0150/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0150.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0150"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0151",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第151画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0151/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0151/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0151.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0151"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0152",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第152画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0152/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0152/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0152.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0152"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0153",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第153画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0153/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0153/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0153.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0153"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0154",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第154画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0154/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0154/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0154.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0154"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0155",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第155画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0155/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0155/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0155.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0155"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.com/iiif/canvas/0156",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "第156画像"
+        ]
+      },
+      "width": 1024,
+      "height": 1448,
+      "items": [
+        {
+          "id": "https://example.com/iiif/canvas/0156/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.com/iiif/canvas/0156/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0156.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1524,
+                "height": 1070
+              },
+              "target": "https://example.com/iiif/canvas/0156"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
