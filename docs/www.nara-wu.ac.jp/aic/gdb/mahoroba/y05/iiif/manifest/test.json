@@ -13,8 +13,15 @@
           "@id": "https:\/\/example.org\/iiif\/380\/canvas\/1",
           "@type": "sc:Canvas",
           "label": "1",
-          "height": 704,
-          "width": 1000,
+          "height": 1,
+          "width": 1,
+           "thumbnail": {
+                        "@id": "http://archive.wul.waseda.ac.jp/kosho/i16/i16_00012/i16_00012_p0001s.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "width": 1,
+                        "height": 1
+                    },
           "images": [
             {
               "@id": "https:\/\/example.org\/iiif\/380\/annotation\/1",
