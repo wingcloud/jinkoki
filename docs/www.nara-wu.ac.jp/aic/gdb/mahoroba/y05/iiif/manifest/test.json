@@ -1,0 +1,51 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://example.org/iiif/manifest/380_0001",
+  "@type": "sc:Manifest",
+  "label": "380_0001",
+  "metadata": [
+    {
+      "label": "Image URL",
+      "value": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0001.jpg"
+    }
+  ],
+  "attribution": "奈良女子大学",
+  "viewingHint": "individuals",
+  "sequences": [
+    {
+      "@id": "https://example.org/iiif/manifest/380_0001/sequence/normal",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://example.org/iiif/manifest/380_0001/canvas/1",
+          "@type": "sc:Canvas",
+          "label": "1",
+          "height": 704,
+          "width": 1000,
+          "images": [
+            {
+              "@id": "https://example.org/iiif/manifest/380_0001/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0001.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 704,
+                "width": 1000
+              },
+              "on": "https://example.org/iiif/manifest/380_0001/canvas/1"
+            }
+          ],
+          "rendering": [
+            {
+              "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0001.jpg",
+              "label": "Original image",
+              "format": "image/jpeg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
