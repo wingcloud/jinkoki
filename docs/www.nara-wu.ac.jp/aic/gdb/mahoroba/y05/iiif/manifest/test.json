@@ -1,30 +1,23 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://wingcloud.github.io/jinkoki/www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/iiif/manifest/380",
+  "@id": "https://example.org/iiif/380/manifest.json",
   "@type": "sc:Manifest",
   "label": "380_0001",
-  "metadata": [
-    {
-      "label": "Image URL",
-      "value": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0001.jpg"
-    }
-  ],
-  "attribution": "奈良女子大学",
   "viewingHint": "individuals",
   "sequences": [
     {
-      "@id": "https://wingcloud.github.io/jinkoki/www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/iiif/manifest/380/sequence/normal",
+      "@id": "https://example.org/iiif/380/sequence/normal",
       "@type": "sc:Sequence",
       "canvases": [
         {
-          "@id": "https://wingcloud.github.io/jinkoki/www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/iiif/manifest/380/canvas/1",
+          "@id": "https://example.org/iiif/380/canvas/1",
           "@type": "sc:Canvas",
           "label": "1",
           "height": 704,
           "width": 1000,
           "images": [
             {
-              "@id": "https://wingcloud.github.io/jinkoki/www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/iiif/manifest/380/annotation/1",
+              "@id": "https://example.org/iiif/380/annotation/1",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -34,14 +27,7 @@
                 "height": 704,
                 "width": 1000
               },
-              "on": "https://wingcloud.github.io/jinkoki/www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/iiif/manifest/380/canvas/1"
-            }
-          ],
-          "rendering": [
-            {
-              "id": "https://www.nara-wu.ac.jp/aic/gdb/mahoroba/y05/gazo/380/l/380_0001.jpg",
-              "label": "Original image",
-              "format": "image/jpeg"
+              "on": "https://example.org/iiif/380/canvas/1"
             }
           ]
         }
