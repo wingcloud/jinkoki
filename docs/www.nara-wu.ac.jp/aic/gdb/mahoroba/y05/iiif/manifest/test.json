@@ -27,6 +27,7 @@
               "@id": "https:\/\/example.org\/iiif\/380\/annotation\/1",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
+              "on": "https:\/\/example.org\/iiif\/380\/canvas\/1",
               "resource": {
                 "@id": "https:\/\/www.nara-wu.ac.jp\/aic\/gdb\/mahoroba\/y05\/gazo\/380\/l\/380_0001.jpg",
                 "@type": "dctypes:Image",
@@ -34,7 +35,6 @@
                 "height": 704,
                 "width": 1000
               },
-              "on": "https:\/\/example.org\/iiif\/380\/canvas\/1"
             }
           ]
         }
